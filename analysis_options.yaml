@@ -1,0 +1,6 @@
+# Static analysis settings (no extra lint package is used)
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
